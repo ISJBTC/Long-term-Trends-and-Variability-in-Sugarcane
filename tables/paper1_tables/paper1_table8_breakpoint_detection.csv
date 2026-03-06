@@ -1,0 +1,6 @@
+District,Variable,Breakpoint_Year,Breakpoint_Index,Pettitt_Statistic,P_Value,Significant
+Ahmednagar,Area_hectares,2004,6,16.0,1.0,No
+Ahmednagar,Production_tonnes,2004,6,16.0,1.0,No
+Ahmednagar,Yield_tonnes_per_hectare,2003,5,17.0,1.0,No
+Nashik,Yield_tonnes_per_hectare,2009,1,14.0,1.0,No
+Solapur,Yield_tonnes_per_hectare,2015,7,8.0,1.0,No

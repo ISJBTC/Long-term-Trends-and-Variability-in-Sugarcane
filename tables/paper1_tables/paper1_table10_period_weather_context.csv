@@ -1,0 +1,4 @@
+Period,Years_Count,Weather_Years_Count,Mean_Rainfall_mm,Mean_Temp_C,Mean_Yield_t_ha,District
+Period 1 (1999-2006),8,5,232.5,25.1671862963097,69.04875,Ahmednagar
+Period 2 (2006-2013),7,2,724.5,25.333419553156396,82.19714285714285,Ahmednagar
+Period 3 (2013-2020),7,1,659.3000000000001,26.33907103825136,86.80571428571429,Ahmednagar

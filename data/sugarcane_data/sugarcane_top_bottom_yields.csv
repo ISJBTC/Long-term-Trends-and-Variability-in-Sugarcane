@@ -1,0 +1,8 @@
+Rank,Year,Area_hectares,Production_tonnes,Yield_tonnes_per_hectare,Category
+1,2020-2021,109977,11945130.44,108.61,Top_Yield
+2,2017-2018,104404,11308900,108.32,Top_Yield
+3,2014-2015,122000,11761000,96.4,Top_Yield
+1,2003-2004,31200,1486800,47.65,Bottom_Yield
+2,2015-2016,112400,6607100,58.78,Bottom_Yield
+3,2004-2005,17000,1001800,58.93,Bottom_Yield
+

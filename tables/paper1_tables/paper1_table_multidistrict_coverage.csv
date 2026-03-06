@@ -1,0 +1,4 @@
+District,Station,Crop_Years_Available,Start_Year_Min,Start_Year_Max,Years_ge_80pct_Completeness,Years_ge_90pct_Completeness,Years_ge_80pct_CoreWeather,Years_ge_90pct_CoreWeather,Completeness_Median_Pct,CoreWeather_Completeness_Median_Pct
+Ahmednagar,Rahuri,25,1996,2020,22,20,9,9,99.17808219178083,29.589041095890412
+Nashik,Niphad,19,1995,2013,10,10,10,9,91.23287671232877,85.2054794520548
+Solapur,Solapur,26,1996,2021,23,21,23,21,99.72640167677221,99.72640167677221
